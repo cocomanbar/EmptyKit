@@ -1,0 +1,16 @@
+PODS:
+  - EmptyKit (0.1.0)
+
+DEPENDENCIES:
+  - EmptyKit (from `../`)
+
+EXTERNAL SOURCES:
+  EmptyKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EmptyKit: 21a010618a143fe8e324d2e548f4ce331d0db59a
+
+PODFILE CHECKSUM: 5cdbf6dbfd737e81de542e22082579a1e7a71930
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_EmptyKit_Tests {
+  umbrella header "Pods-EmptyKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
